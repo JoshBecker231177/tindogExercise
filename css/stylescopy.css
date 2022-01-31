@@ -1,0 +1,31 @@
+#title {
+  background-color: #ff4c68;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.row {
+  transform: translateY(100px);
+}
+
+h1 {
+  font-family: Montserrat;
+  font-weight: 900;
+  size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.button-download {
+  margin: 30px 0;
+}
+
+.iphone-dog {
+  transform: rotate(30deg);
+}
+
+.nav-item {
+  padding: 25px;
+}
