@@ -132,3 +132,44 @@ h2 {
 .pricing-column {
   padding: 3% 2%;
 }
+
+/* Call-to-action section */
+
+#cta {
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+}
+
+.cta-text {
+  font-size: 3rem;
+  line-height: 1.5;
+  padding: 7% 5% 3%;
+}
+
+.cta-download-button {
+  margin: 3% 1% 8%;
+}
+
+/* Footer section */
+
+#footer {
+  text-align: center;
+  margin: 5%;
+}
+
+.footer-icon {
+  margin: 0 0.8%;
+}
+
+
+@media (max-width: 1028px) {
+  #title {
+    text-align: center;
+  }
+  .title-image {
+    position: static;
+    width: 100%;
+    transform: rotate(0);
+  }
+}
